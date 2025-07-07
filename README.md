@@ -6,7 +6,7 @@
 
 ###
 
-**Resume and Links:**  
+**Links:**  
 [Resume](https://github.com/tahsinismail/tahsinismail/blob/main/resume.md)  &#x2022; [Website](https://tahsinismail.vercel.app)  &#x2022; [LinkedIn](https://linkedin.com/in/tahsinismail)  &#x2022;
  [CodeWars](https://www.codewars.com/users/tahsinismail)
 
