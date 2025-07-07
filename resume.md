@@ -16,7 +16,7 @@ Full-stack software developer with 4+ years of experience building web and mobil
 
 ## Work Experience
 
-### Xpressmall Hotels and Resorts (Remote) — Software Developer (App & Web)
+### Xpressmall Hotels and Resorts — Software Developer (App & Web) | Remote
 **Nov 2021 – Present &#x2022; Dhaka, Bangladesh**
 
 - Developed and launched the official website for Xpressmall Hotels and Resorts, leveraging Remix.js and Shopify's Hydrogen Framework.
@@ -26,6 +26,7 @@ Full-stack software developer with 4+ years of experience building web and mobil
 - Currently leading the re-platforming of the existing Xpressmall Flutter mobile application to React Native for enhanced performance and maintainability.
 
 - Initiated and facilitated the transition of the development team to Agile methodologies with a 1-week sprint cycle, boosting app update delivery efficiency by 20% and optimizing project timelines.
+
 - **Tech Stack:** TypeScript, React.js, Remix.js, React Native, Shopify, Agile, AI tools.
 
 ### Xpressmall Technologies LLC — Software Developer
