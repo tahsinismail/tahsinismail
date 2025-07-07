@@ -2,7 +2,7 @@
 *Software Developer - Full-Stack Web & Mobile Applications*
 
 **Contact Information:**  
-Chattogram-4338, Bangladesh &#x2022; +880 1834-908883 &#x2022; tahsinismail@icloud.com
+Doha, Qatar &#x2022; +974 5073-3502 &#x2022; tahsinismail@icloud.com
 
 **Profiles and Links:**  
 [Website](https://tahsinismail.vercel.app) &#x2022; [Github](https://github.com/tahsinismail) &#x2022; [LinkedIn](https://linkedin.com/in/tahsinismail)  &#x2022;
@@ -100,5 +100,5 @@ CGPA: 3.32 &#x2022; Aug 2015 – Oct 2019 &#x2022;  Chattogram, Bangladesh
 ### Interpersonal Skills
 **Teamwork & Collaboration:** Collaboration, Teamwork, Communication  
 **Problem-Solving & Critical Thinking:** Problem Solving, Critical Thinking, Attention to Detail  
-**Proactive & Adaptable:** Initiative, Adaptability/Flexibility  
+**Proactive & Adaptable:** Initiative, Adaptability
 **Language:** Native in Bengali, Professional Working Proficiency in English
