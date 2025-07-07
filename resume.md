@@ -70,14 +70,15 @@ Full-stack software developer with 4+ years of experience building web and mobil
 
 ## Certifications
 
-- AI Fundamentals Certification — DataCamp (May 2025)
-- Meta Full-Stack Developer Specialization — Coursera (May 2024)
+- **AI Fundamentals Certification** — DataCamp (May, 2025)
 
-- Google IT Support Specialization — Coursera (Sep 2020)
+- **Meta Full-Stack Developer Specialization** — Coursera (May, 2024)
 
-- The Fundamentals of Digital Marketing - Google Digital Garage (Aug 2019)
+- **Google IT Support Specialization** — Coursera (Sep, 2020)
 
-- Intro to Computer Science & Programming (Python) — edX (Jul 2018)
+- **The Fundamentals of Digital Marketing** - Google Digital Garage (Aug, 2019)
+
+- **Introduction to Computer Science & Programming Using Python** — edX (Jul, 2018)
 
 
 ## Education
