@@ -2,29 +2,23 @@
 
 ###
 
-*Software Developer - Full Stack Web and Mobile Applications*
+*Full Stack Developer*
 
 ###
 
 **Profiles and Links:**  
-[Website](https://tahsinismail.vercel.app)  &#x2022; [LinkedIn](https://linkedin.com/in/tahsinismail)  &#x2022;
+[Website](https://tahsinismail.com)  &#x2022; [LinkedIn](https://linkedin.com/in/tahsinismail)  &#x2022;
  [CodeWars](https://www.codewars.com/users/tahsinismail)
 
 
-**Tech Skills**
+**Skills**
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24" alt="HTML logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="24" alt="CSS logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="javascript logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="24" alt="typescript logo"  />
-  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24" alt="nodejs logo"  />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="24" alt="Vitejs logo"  />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="24" alt="typescript logo"  />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24" alt="React logo"  />
   <img width="6" />
