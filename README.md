@@ -2,14 +2,9 @@
 
 ###
 
-*Full Stack Developer*
+*Full-Stack Solution Architect*
 
 ###
-
-**Profiles and Links:**  
-[Website](https://tahsinismail.com)  &#x2022; [LinkedIn](https://linkedin.com/in/tahsinismail)  &#x2022;
- [CodeWars](https://www.codewars.com/users/tahsinismail)
-
 
 **Skills**
 
@@ -23,8 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24" alt="React logo"  />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="24" alt="React logo"  />
-  <img width="6" />
-  <img src="https://remix.run/_brand/remix-letter-glowing.svg" height="24" alt="Remixjs logo"  />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="24" alt="nextjs logo"  />
   <img width="6" />
@@ -50,10 +43,10 @@
   <img width="6"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" alt="git logo"  />
   <img width="6"/>
-
-
-
-
 </div>
+
+###
+
+<img src="https://www.codewars.com/users/tahsinismail/badges/small" alt="codewars"  />
 
 ###
