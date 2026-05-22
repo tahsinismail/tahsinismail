@@ -47,6 +47,7 @@
 
 ###
 
-<img src="https://www.codewars.com/users/tahsinismail/badges/small" alt="codewars"  />
+<img src="https://www.codewars.com/users/tahsinismail/badges/small" alt="CodeWars"  />
+<img src="https://leetcard.jacoblin.cool/tahsinismail?theme=system" alt="LeetCode" />
 
 ###
