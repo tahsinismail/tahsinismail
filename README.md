@@ -2,7 +2,7 @@
 
 ###
 
-*Full-Stack Solution Architect*
+*Full Stack Developer*
 
 ###
 
